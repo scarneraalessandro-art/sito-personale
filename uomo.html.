@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Catalogo Uomo | Alex & Co.</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+		<div id="page-wrapper">
+			<section id="header">
+				<div class="container">
+					<h1>Collezione Uomo</h1>
+					<nav id="nav"><a href="index.html">Torna alla Home</a></nav>
+				</div>
+			</section>
+			<section id="features">
+				<div class="container">
+					<div class="row">
+						<div class="col-4 col-12-medium">
+							<img src="https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=500" class="bordered-feature-image" alt="Orologio Sportivo">
+							<h3>Submariner Pro</h3>
+							<p>Perfetto per le immersioni, acciaio inossidabile.</p>
+						</div>
+						<div class="col-4 col-12-medium">
+							<img src="https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?w=500" class="bordered-feature-image" alt="Orologio Oro">
+							<h3>Golden Master</h3>
+							<p>Movimento automatico con finiture in oro 18k.</p>
+						</div>
+						<div class="col-4 col-12-medium">
+							<img src="https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=500" class="bordered-feature-image" alt="Orologio Nero">
+							<h3>Dark Knight</h3>
+							<p>Design total black per un look moderno.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>
+
