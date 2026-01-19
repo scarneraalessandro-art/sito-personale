@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Catalogo Donna | Alex & Co.</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+		<div id="page-wrapper">
+			<section id="header">
+				<div class="container">
+					<h1>Collezione Donna</h1>
+					<nav id="nav"><a href="index.html">Torna alla Home</a></nav>
+				</div>
+			</section>
+			<section id="features">
+				<div class="container">
+					<div class="row">
+						<div class="col-4 col-12-medium">
+							<img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=500" class="bordered-feature-image" alt="Orologio Rosa">
+							<h3>Rose Luxury</h3>
+							<p>L'eleganza dell'oro rosa al tuo polso.</p>
+						</div>
+						<div class="col-4 col-12-medium">
+							<img src="https://images.unsplash.com/photo-1508685096489-77a5ad2bd674?w=500" class="bordered-feature-image" alt="Orologio Bianco">
+							<h3>White Diamond</h3>
+							<p>Purezza e diamanti per occasioni speciali.</p>
+						</div>
+						<div class="col-4 col-12-medium">
+							<img src="https://images.unsplash.com/photo-1509048191080-d2984bad6ad5?w=500" class="bordered-feature-image" alt="Orologio Pelle">
+							<h3>Chic Vintage</h3>
+							<p>Cinturino in pelle e stile senza tempo.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>
+
